@@ -1,6 +1,6 @@
 import './movie-list-item.css'
 
-const MovieListItem = ({name, viewers, favourite }) => {
+const MovieListItem = ({name, viewers, favourite  }) => {
 
  
   return  (
